@@ -1,12 +1,5 @@
 [
   {
-    "slug": "okan-buruk-stuttgart-n-zay-f-noktas-n-a-klad",
-    "title": "Okan Buruk, Stuttgart'ın zayıf noktasını açıkladı!",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1793727609.9712439
-  },
-  {
     "slug": "aslan-n-rus-f-rt-nas-4-ma-ta-4-gol",
     "title": "Aslan'ın Rus fırtınası! 4 maçta 4 gol",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795038174.6796982
+  },
+  {
+    "slug": "be-ikta-real-madrid-83-79-ma-sonucu-yaz-l-zet",
+    "title": "Beşiktaş - Real Madrid: 83-79 (Maç sonucu-yazılı özet)",
+    "club": "BEŞİKTAŞ",
+    "status": "posted_telegram",
+    "ts": 1795045239.6343775
   }
 ]
