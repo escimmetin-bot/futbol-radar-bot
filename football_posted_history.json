@@ -1,12 +1,5 @@
 [
   {
-    "slug": "leandro-trossard-arsenal-den-be-ikta-a-istedi-i-ik",
-    "title": "Leandro Trossard, Arsenal'den Beşiktaş'a istediği iki ismi açıkladı",
-    "club": "BEŞİKTAŞ",
-    "status": "posted",
-    "ts": 1793706053.121161
-  },
-  {
     "slug": "arda-g-ler-aek-ma-n-n-kamp-kadrosuna-al-nmad",
     "title": "Arda Güler, AEK maçının kamp kadrosuna alınmadı!",
     "club": "REAL MADRİD / ARDA GÜLER",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795017194.9618895
+  },
+  {
+    "slug": "d-nya-devlerinin-g-zdesi-real-madrid-e-do-ru-manch",
+    "title": "Dünya devlerinin gözdesi, Real Madrid'e doğru! Manchester United'a veda etti",
+    "club": "REAL MADRİD / ARDA GÜLER",
+    "status": "posted_telegram",
+    "ts": 1795024068.2908833
   }
 ]
