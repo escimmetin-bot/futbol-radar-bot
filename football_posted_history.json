@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-de-mason-greenwood-un-durumu-netlik-kaz",
-    "title": "Fenerbahçe'de Mason Greenwood'un durumu netlik kazandı! Liverpool maçında forma giyecek mi?",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1793699139.023715
-  },
-  {
     "slug": "leandro-trossard-arsenal-den-be-ikta-a-istedi-i-ik",
     "title": "Leandro Trossard, Arsenal'den Beşiktaş'a istediği iki ismi açıkladı",
     "club": "BEŞİKTAŞ",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1794827301.5301585
+  },
+  {
+    "slug": "fenerbah-e-de-iki-y-ld-z-ameliyat-edildi-resmi-a-k",
+    "title": "Fenerbahçe'de iki yıldız ameliyat edildi! Resmi açıklama geldi",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795017194.9618895
   }
 ]
