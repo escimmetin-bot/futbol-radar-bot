@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-liverpool-ma-ne-zaman-hangi-kanalda-muh",
-    "title": "Fenerbahçe - Liverpool maçı ne zaman, hangi kanalda? Muhtemel 11'ler, sakat ve cezalılar",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1793720197.6929314
-  },
-  {
     "slug": "okan-buruk-stuttgart-n-zay-f-noktas-n-a-klad",
     "title": "Okan Buruk, Stuttgart'ın zayıf noktasını açıkladı!",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795031359.9835994
+  },
+  {
+    "slug": "ognjen-mimovic-e-gaziantep-fk-talip-oldu",
+    "title": "Ognjen Mimovic’e Gaziantep FK talip oldu!",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795038174.6796982
   }
 ]
