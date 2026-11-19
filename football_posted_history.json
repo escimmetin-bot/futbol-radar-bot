@@ -1,12 +1,5 @@
 [
   {
-    "slug": "spor-yazarlar-galatasaray-i-in-ne-dedi",
-    "title": "Spor yazarları Galatasaray için ne dedi?",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1793771145.8742676
-  },
-  {
     "slug": "kas-mpa-a-dan-emre-bel-zo-lu-nun-yerine-bomba-isim",
     "title": "Kasımpaşa'dan Emre Belözoğlu'nun yerine bomba isim!",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795089153.5090427
+  },
+  {
+    "slug": "lille-in-berke-zer-i-in-istedi-i-bonservis-belli-o",
+    "title": "Lille'in Berke Özer için istediği bonservis belli oldu! İki teklif var",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795097507.7866845
   }
 ]
