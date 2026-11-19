@@ -1,12 +1,5 @@
 [
   {
-    "slug": "galatasaray-n-rus-y-ld-z-aleksey-batrakov-un-menaj",
-    "title": "Galatasaray'ın Rus yıldızı Aleksey Batrakov'un menajerinden transfer açıklaması",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1793803940.7696157
-  },
-  {
     "slug": "fenerbah-e-liverpool-ma-canl-izle-linki",
     "title": "Fenerbahçe - Liverpool maçı canlı izle linki",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795119960.7132366
+  },
+  {
+    "slug": "yazili-zet-olimpia-milano-fenerbah-e-tarfin-ma-son",
+    "title": "(YAZILI ÖZET) Olimpia Milano - Fenerbahçe Tarfin Maç Sonucu: 78-70",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795126587.9860706
   }
 ]
