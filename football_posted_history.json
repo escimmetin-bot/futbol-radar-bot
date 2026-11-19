@@ -1,12 +1,5 @@
 [
   {
-    "slug": "psg-den-ampiyonlar-ligi-nde-gol-ov-villarreal-in-1",
-    "title": "PSG'den Şampiyonlar Ligi'nde gol şov! Villarreal'in 17 dakikada gururuyla oynadılar",
-    "club": "SÜPER LİG",
-    "status": "posted",
-    "ts": 1793741456.7195408
-  },
-  {
     "slug": "batrakov-galatasaray-tarihine-ad-n-yazd-rd",
     "title": "Batrakov Galatasaray tarihine adını yazdırdı!",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795053954.2576568
+  },
+  {
+    "slug": "esenler-erokspor-rilski-sportist-113-62-ma-sonucu-",
+    "title": "Esenler Erokspor-Rilski Sportist: 113-62 (Maç sonucu-yazılı özet)",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795062750.3835557
   }
 ]
