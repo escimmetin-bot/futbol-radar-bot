@@ -1,12 +1,5 @@
 [
   {
-    "slug": "batrakov-galatasaray-tarihine-ad-n-yazd-rd",
-    "title": "Batrakov Galatasaray tarihine adını yazdırdı!",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1793747495.5480254
-  },
-  {
     "slug": "barcelona-aston-villa-3-0-ma-sonucu-ma-zeti-yaz-l",
     "title": "Barcelona - Aston Villa: 3-0 Maç sonucu, maç özeti (Yazılı)",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795062750.3835557
+  },
+  {
+    "slug": "fenerbah-e-kislyak-i-in-masada-i-te-cska-moskova-n",
+    "title": "Fenerbahçe, Kislyak için masada! İşte CSKA Moskova'nın istediği bonservis...",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795071422.8500772
   }
 ]
