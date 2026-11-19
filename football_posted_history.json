@@ -1,12 +1,5 @@
 [
   {
-    "slug": "emre-bel-zo-lu-nun-g-reve-ba-lama-tarihi-belli-old",
-    "title": "Emre Belözoğlu'nun göreve başlama tarihi belli oldu! Liverpool maçında...",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1793796166.0279398
-  },
-  {
     "slug": "galatasaray-n-rus-y-ld-z-aleksey-batrakov-un-menaj",
     "title": "Galatasaray'ın Rus yıldızı Aleksey Batrakov'un menajerinden transfer açıklaması",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795112220.0200126
+  },
+  {
+    "slug": "osimhen-salah-vlahovic-hepsini-geride-b-rakan-isim",
+    "title": "Osimhen, Salah, Vlahovic... Hepsini geride bırakan isim belli oldu!",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795119960.7132366
   }
 ]
