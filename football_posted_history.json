@@ -1,12 +1,5 @@
 [
   {
-    "slug": "barcelona-aston-villa-3-0-ma-sonucu-ma-zeti-yaz-l",
-    "title": "Barcelona - Aston Villa: 3-0 Maç sonucu, maç özeti (Yazılı)",
-    "club": "SÜPER LİG",
-    "status": "posted",
-    "ts": 1793756983.6646786
-  },
-  {
     "slug": "ampiyonlar-ligi-tarihinde-bir-ilk-rams-park-ta-ger",
     "title": "Şampiyonlar Ligi tarihinde bir ilk RAMS Park'ta gerçekleştirildi",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795071422.8500772
+  },
+  {
+    "slug": "fenerbah-e-ile-g-ztepe-aras-nda-arda-okan-kurtulan",
+    "title": "Fenerbahçe ile Göztepe arasında Arda Okan Kurtulan pazarlığı",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795081020.208558
   }
 ]
