@@ -1,12 +1,5 @@
 [
   {
-    "slug": "kas-mpa-a-dan-emre-bel-zo-lu-nun-yerine-bomba-isim",
-    "title": "Kasımpaşa'dan Emre Belözoğlu'nun yerine bomba isim!",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1793779724.6894581
-  },
-  {
     "slug": "arda-turan-ve-emre-bel-zo-lu-ampiyonlar-ligi-tarih",
     "title": "Arda Turan ve Emre Belözoğlu, Şampiyonlar Ligi tarihinde bir ilke imza atacak",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795097507.7866845
+  },
+  {
+    "slug": "fenerbah-e-arad-10-numaray-buldu-rodrigo-zalazar",
+    "title": "Fenerbahçe aradığı 10 numarayı buldu: Rodrigo Zalazar",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795105768.3319306
   }
 ]
