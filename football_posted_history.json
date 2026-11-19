@@ -1,12 +1,5 @@
 [
   {
-    "slug": "ampiyonlar-ligi-tarihinde-bir-ilk-rams-park-ta-ger",
-    "title": "Şampiyonlar Ligi tarihinde bir ilk RAMS Park'ta gerçekleştirildi",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1793763557.1178017
-  },
-  {
     "slug": "spor-yazarlar-galatasaray-i-in-ne-dedi",
     "title": "Spor yazarları Galatasaray için ne dedi?",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795081020.208558
+  },
+  {
+    "slug": "g-ztepe-de-juan-ve-andre-henrique-skor-y-k-n-ekiyo",
+    "title": "Göztepe’de Juan ve Andre Henrique, skor yükünü çekiyor",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795089153.5090427
   }
 ]
