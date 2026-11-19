@@ -1,12 +1,5 @@
 [
   {
-    "slug": "arda-turan-ve-emre-bel-zo-lu-ampiyonlar-ligi-tarih",
-    "title": "Arda Turan ve Emre Belözoğlu, Şampiyonlar Ligi tarihinde bir ilke imza atacak",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1793788310.2579527
-  },
-  {
     "slug": "emre-bel-zo-lu-nun-g-reve-ba-lama-tarihi-belli-old",
     "title": "Emre Belözoğlu'nun göreve başlama tarihi belli oldu! Liverpool maçında...",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795105768.3319306
+  },
+  {
+    "slug": "bursaspor-da-nate-watson-ile-yollar-ayr-ld-i-te-ye",
+    "title": "Bursaspor'da Nate Watson ile yollar ayrıldı! İşte yeni takımı",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795112220.0200126
   }
 ]
