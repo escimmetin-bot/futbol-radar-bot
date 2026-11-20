@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-medicana-afyon-belediye-y-nta-3-0-ma-so",
-    "title": "Fenerbahçe Medicana-Afyon Belediye Yüntaş: 3-0 (Maç sonucu-yazılı özet)",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1793893634.7486353
-  },
-  {
     "slug": "como-dokuz-gol-atarak-ampiyonlar-ligi-tarihine-ge-",
     "title": "Como dokuz gol atarak Şampiyonlar Ligi tarihine geçti",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "TRABZONSPOR",
     "status": "posted_telegram",
     "ts": 1795210641.2974374
+  },
+  {
+    "slug": "osimhen-man-utd-un-transferine-merakl-cumartesi-g-",
+    "title": "Osimhen, Man Utd'un transferine meraklı - Cumartesi günkü dedikodular",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795217838.5010583
   }
 ]
