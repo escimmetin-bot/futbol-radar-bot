@@ -1,12 +1,5 @@
 [
   {
-    "slug": "yazili-zet-leipzig-manchester-city-ma-sonucu-2-3",
-    "title": "(YAZILI ÖZET) Leipzig - Manchester City Maç Sonucu: 2-3",
-    "club": "SÜPER LİG",
-    "status": "posted",
-    "ts": 1793839108.5581634
-  },
-  {
     "slug": "liverpool-kuyt-un-kar-s-nda-ma-lup-oldu",
     "title": "Liverpool, Kuyt'un karşısında mağlup oldu",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795153972.7161245
+  },
+  {
+    "slug": "nder-zen-transferi-bitirmeye-gidiyor-kiral-k-gelec",
+    "title": "Önder Özen transferi bitirmeye gidiyor! Kiralık gelecek...",
+    "club": "BEŞİKTAŞ",
+    "status": "posted_telegram",
+    "ts": 1795162294.3843632
   }
 ]
