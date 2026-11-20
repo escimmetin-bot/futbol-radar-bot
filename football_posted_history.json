@@ -1,12 +1,5 @@
 [
   {
-    "slug": "liverpool-kuyt-un-kar-s-nda-ma-lup-oldu",
-    "title": "Liverpool, Kuyt'un karşısında mağlup oldu",
-    "club": "SÜPER LİG",
-    "status": "posted",
-    "ts": 1793846869.8030584
-  },
-  {
     "slug": "porto-napoli-yi-ikinci-yar-da-ma-lup-etti",
     "title": "Porto, Napoli'yi ikinci yarıda mağlup etti",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "BEŞİKTAŞ",
     "status": "posted_telegram",
     "ts": 1795162294.3843632
+  },
+  {
+    "slug": "galatasaray-da-g-zden-d-en-kaan-ayhan-n-g-r-t-kul-",
+    "title": "Galatasaray'da gözden düşen Kaan Ayhan'ın görüştüğü kulüp ortaya çıktı",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795170596.4545374
   }
 ]
