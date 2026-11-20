@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-18-y-l-sonra-ampiyonlar-ligi-nde-kazand",
-    "title": "Fenerbahçe 18 yıl sonra Şampiyonlar Ligi'nde kazandı!",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1793831885.052041
-  },
-  {
     "slug": "yazili-zet-leipzig-manchester-city-ma-sonucu-2-3",
     "title": "(YAZILI ÖZET) Leipzig - Manchester City Maç Sonucu: 2-3",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795146174.0132473
+  },
+  {
+    "slug": "barcelona-man-utd-lu-martinez-i-hedef-al-yor-cuma-",
+    "title": "Barcelona, ​​Man Utd'lu Martinez'i hedef alıyor - Cuma günkü dedikodu",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795153972.7161245
   }
 ]
