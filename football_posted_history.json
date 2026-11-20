@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-liverpool-ma-n-n-ard-ndan-fla-transfer-",
-    "title": "Fenerbahçe-Liverpool maçının ardından flaş transfer iddiası",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1793877996.0124407
-  },
-  {
     "slug": "gen-lerbirli-i-nden-metehan-baltac-karar-teklif-ya",
     "title": "Gençlerbirliği’nden Metehan Baltacı kararı: Teklif yapıldı!",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795193398.5365252
+  },
+  {
+    "slug": "formula-1-de-ayr-l-k-yerine-mercedes-pilotu-geldi",
+    "title": "Formula 1'de ayrılık! Yerine Mercedes pilotu geldi",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795200479.3135185
   }
 ]
