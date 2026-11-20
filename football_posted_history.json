@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-liverpool-ma-canl-izle-linki",
-    "title": "Fenerbahçe - Liverpool maçı canlı izle linki",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1793810678.4248374
-  },
-  {
     "slug": "real-madrid-gabriel-i-transfer-etmek-i-in-s-zl-anl",
     "title": "Real Madrid, Gabriel'i transfer etmek için sözlü anlaşmaya vardı",
     "club": "REAL MADRİD / ARDA GÜLER",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795126587.9860706
+  },
+  {
+    "slug": "ertu-rul-do-an-3-futbolcuya-resmi-teklif-geldi",
+    "title": "Ertuğrul Doğan: \"3 futbolcuya resmi teklif geldi\"",
+    "club": "TRABZONSPOR",
+    "status": "posted_telegram",
+    "ts": 1795133522.8759685
   }
 ]
