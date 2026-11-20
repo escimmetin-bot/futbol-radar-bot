@@ -1,12 +1,5 @@
 [
   {
-    "slug": "real-madrid-gabriel-i-transfer-etmek-i-in-s-zl-anl",
-    "title": "Real Madrid, Gabriel'i transfer etmek için sözlü anlaşmaya vardı",
-    "club": "REAL MADRİD / ARDA GÜLER",
-    "status": "posted",
-    "ts": 1793817771.7328682
-  },
-  {
     "slug": "fenerbah-e-liverpool-3-2-ma-sonucu-ma-zeti-yaz-l",
     "title": "Fenerbahçe - Liverpool: 3-2 Maç sonucu, maç özeti (Yazılı)",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "TRABZONSPOR",
     "status": "posted_telegram",
     "ts": 1795133522.8759685
+  },
+  {
+    "slug": "sarunas-jasikevicius-zihnimiz-yeterince-berrak-de-",
+    "title": "Sarunas Jasikevicius: \"Zihnimiz yeterince berrak değildi\"",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795138864.9000225
   }
 ]
