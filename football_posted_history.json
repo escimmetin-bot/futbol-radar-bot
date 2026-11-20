@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-ampiyonlar-ligi-nde-kasas-n-doldurdu",
-    "title": "Fenerbahçe, Şampiyonlar Ligi’nde kasasını doldurdu!",
-    "club": "FENERBAHÇE",
-    "status": "posted_telegram",
-    "ts": 1793861736.3048875
-  },
-  {
     "slug": "fenerbah-e-ma-n-n-hakemi-turpin-e-sert-tepki-mars-",
     "title": "Fenerbahçe maçının hakemi Turpin'e sert tepki: \"Mars'tan bile tartışmasız penaltı-kırmızı kart\"",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "BEŞİKTAŞ",
     "status": "posted_telegram",
     "ts": 1795177295.4541497
+  },
+  {
+    "slug": "arda-g-ler-in-ard-ndan-imdi-de-brahim-diaz",
+    "title": "Arda Güler'in ardından şimdi de Brahim Diaz!",
+    "club": "BEŞİKTAŞ",
+    "status": "posted_telegram",
+    "ts": 1795186448.9387014
   }
 ]
