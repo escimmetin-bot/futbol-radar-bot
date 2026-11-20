@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-liverpool-3-2-ma-sonucu-ma-zeti-yaz-l",
-    "title": "Fenerbahçe - Liverpool: 3-2 Maç sonucu, maç özeti (Yazılı)",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1793824840.0103326
-  },
-  {
     "slug": "fenerbah-e-18-y-l-sonra-ampiyonlar-ligi-nde-kazand",
     "title": "Fenerbahçe 18 yıl sonra Şampiyonlar Ligi'nde kazandı!",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795138864.9000225
+  },
+  {
+    "slug": "arsenal-in-malzemeleri-var-ama-avrupa-n-n-se-kinle",
+    "title": "Arsenal'in 'malzemeleri var' ama Avrupa'nın seçkinleri başka bir seviyede",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795146174.0132473
   }
 ]
