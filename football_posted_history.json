@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-ma-n-n-hakemi-turpin-e-sert-tepki-mars-",
-    "title": "Fenerbahçe maçının hakemi Turpin'e sert tepki: \"Mars'tan bile tartışmasız penaltı-kırmızı kart\"",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1793870864.996812
-  },
-  {
     "slug": "fenerbah-e-liverpool-ma-n-n-ard-ndan-fla-transfer-",
     "title": "Fenerbahçe-Liverpool maçının ardından flaş transfer iddiası",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "BEŞİKTAŞ",
     "status": "posted_telegram",
     "ts": 1795186448.9387014
+  },
+  {
+    "slug": "emre-bel-zo-lu-eski-y-ld-z-geri-getiriyor",
+    "title": "Emre Belözoğlu, eski yıldızı geri getiriyor",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795193398.5365252
   }
 ]
