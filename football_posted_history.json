@@ -1,12 +1,5 @@
 [
   {
-    "slug": "gen-lerbirli-i-nden-metehan-baltac-karar-teklif-ya",
-    "title": "Gençlerbirliği’nden Metehan Baltacı kararı: Teklif yapıldı!",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1793886206.8936243
-  },
-  {
     "slug": "fenerbah-e-medicana-afyon-belediye-y-nta-3-0-ma-so",
     "title": "Fenerbahçe Medicana-Afyon Belediye Yüntaş: 3-0 (Maç sonucu-yazılı özet)",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795200479.3135185
+  },
+  {
+    "slug": "trabzonspor-dan-transfer-itiraf-7-milyon-euro-iste",
+    "title": "Trabzonspor'dan transfer itirafı: \"7 milyon Euro istediler\"",
+    "club": "TRABZONSPOR",
+    "status": "posted_telegram",
+    "ts": 1795210641.2974374
   }
 ]
