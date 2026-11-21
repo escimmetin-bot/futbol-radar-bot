@@ -1,12 +1,5 @@
 [
   {
-    "slug": "olaitan-b-rakt-yerden-devam-ediyor",
-    "title": "Olaitan bıraktığı yerden devam ediyor!",
-    "club": "BEŞİKTAŞ",
-    "status": "posted",
-    "ts": 1793936464.729094
-  },
-  {
     "slug": "fenerbah-e-tarfin-kosner-baskonia-84-65-ma-sonucu-",
     "title": "Fenerbahçe Tarfin - Kosner Baskonia: 84-65 (Maç sonucu-yazılı özet)",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "BEŞİKTAŞ",
     "status": "posted_telegram",
     "ts": 1795256083.010746
+  },
+  {
+    "slug": "be-ikta-tan-d-nya-ap-nda-transfer-hamlesi-hedef-ou",
+    "title": "Beşiktaş'tan dünya çapında transfer hamlesi! Hedef Ousmane Diomande",
+    "club": "BEŞİKTAŞ",
+    "status": "posted_telegram",
+    "ts": 1795262952.7953815
   }
 ]
