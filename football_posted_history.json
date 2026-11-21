@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-tarfin-kosner-baskonia-84-65-ma-sonucu-",
-    "title": "Fenerbahçe Tarfin - Kosner Baskonia: 84-65 (Maç sonucu-yazılı özet)",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1793944088.1183782
-  },
-  {
     "slug": "kad-n-futbol-s-per-ligi-nde-yar-n-derbi-heyecan-ya",
     "title": "Kadın Futbol Süper Ligi'nde yarın derbi heyecanı yaşanacak",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "BEŞİKTAŞ",
     "status": "posted_telegram",
     "ts": 1795262952.7953815
+  },
+  {
+    "slug": "i-smi-dortmund-la-an-lm-t-yunus-akg-n-den-klas-gol",
+    "title": "İsmi Dortmund'la anılmıştı: Yunus Akgün'den klas gol!",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795270828.9579287
   }
 ]
