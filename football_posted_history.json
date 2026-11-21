@@ -1,12 +1,5 @@
 [
   {
-    "slug": "como-dokuz-gol-atarak-ampiyonlar-ligi-tarihine-ge-",
-    "title": "Como dokuz gol atarak Şampiyonlar Ligi tarihine geçti",
-    "club": "SÜPER LİG",
-    "status": "posted",
-    "ts": 1793900889.5962243
-  },
-  {
     "slug": "liverpool-ma-n-n-adam-se-ilen-i-smail-y-ksek-aya-n",
     "title": "Liverpool maçının adamı seçilen İsmail Yüksek ayağının tozuyla İznik'e geldi",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795217838.5010583
+  },
+  {
+    "slug": "partizan-91-87-be-ikta-ma-sonucu-kartal-uzatmada-m",
+    "title": "Partizan 91-87 Beşiktaş Maç Sonucu | Kartal uzatmada mağlup oldu!",
+    "club": "BEŞİKTAŞ",
+    "status": "posted_telegram",
+    "ts": 1795226409.163358
   }
 ]
