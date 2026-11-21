@@ -1,12 +1,5 @@
 [
   {
-    "slug": "celtic-be-ikta-3-2-ma-sonucu-ma-zeti-yaz-l",
-    "title": "Celtic - Beşiktaş: 3-2 Maç sonucu, maç özeti (Yazılı)",
-    "club": "BEŞİKTAŞ",
-    "status": "posted",
-    "ts": 1793930272.7555044
-  },
-  {
     "slug": "olaitan-b-rakt-yerden-devam-ediyor",
     "title": "Olaitan bıraktığı yerden devam ediyor!",
     "club": "BEŞİKTAŞ",
@@ -1048,5 +1041,12 @@
     "club": "BEŞİKTAŞ",
     "status": "posted_telegram",
     "ts": 1795248099.3527365
+  },
+  {
+    "slug": "roma-dan-trabzonspor-a-20-milyonluk-euro-luk-tekli",
+    "title": "Roma'dan Trabzonspor'a 20 milyonluk Euro'luk teklif",
+    "club": "BEŞİKTAŞ",
+    "status": "posted_telegram",
+    "ts": 1795256083.010746
   }
 ]
