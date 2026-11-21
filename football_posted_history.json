@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-de-emre-bel-zo-lu-imzay-at-yor",
-    "title": "Fenerbahçe'de Emre Belözoğlu imzayı atıyor",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1793972269.742442
-  },
-  {
     "slug": "arda-akmak-tan-metehan-baltac-i-rfan-can-e-ribayat",
     "title": "Arda Çakmak'tan Metehan Baltacı, İrfan Can Eğribayat, Beşiktaş ve transfer açıklaması!",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "TRABZONSPOR",
     "status": "posted_telegram",
     "ts": 1795277514.3240097
+  },
+  {
+    "slug": "galatasaray-n-rakibi-aston-villa-sahas-nda-tak-ld",
+    "title": "Galatasaray'ın rakibi Aston Villa sahasında takıldı!",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795284342.8974965
   }
 ]
