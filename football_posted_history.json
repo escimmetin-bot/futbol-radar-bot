@@ -1,12 +1,5 @@
 [
   {
-    "slug": "arda-akmak-tan-metehan-baltac-i-rfan-can-e-ribayat",
-    "title": "Arda Çakmak'tan Metehan Baltacı, İrfan Can Eğribayat, Beşiktaş ve transfer açıklaması!",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1793979453.4412274
-  },
-  {
     "slug": "cska-mokova-dan-youssef-en-nesyri-i-in-dev-teklif",
     "title": "CSKA Mokova'dan Youssef En-Nesyri için dev teklif!",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795284342.8974965
+  },
+  {
+    "slug": "berkan-kutlu-beni-dinledi-ve-gol-oldu",
+    "title": "Berkan Kutlu: “Beni dinledi ve gol oldu”",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795291724.5118008
   }
 ]
