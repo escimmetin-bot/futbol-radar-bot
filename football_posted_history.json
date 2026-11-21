@@ -1,12 +1,5 @@
 [
   {
-    "slug": "cska-mokova-dan-youssef-en-nesyri-i-in-dev-teklif",
-    "title": "CSKA Mokova'dan Youssef En-Nesyri için dev teklif!",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1793986771.555575
-  },
-  {
     "slug": "be-ikta-zalgiris-kaunas-67-83-ma-sonucu-yaz-l-zet",
     "title": "Beşiktaş - Zalgiris Kaunas: 67-83 (Maç sonucu-yazılı özet)",
     "club": "BEŞİKTAŞ",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795291724.5118008
+  },
+  {
+    "slug": "real-madrid-celta-vigo-2-1-ma-sonucu-yaz-l-zet",
+    "title": "Real Madrid - Celta Vigo: 2-1 (Maç sonucu-yazılı özet)",
+    "club": "REAL MADRİD / ARDA GÜLER",
+    "status": "posted_telegram",
+    "ts": 1795298844.7564921
   }
 ]
