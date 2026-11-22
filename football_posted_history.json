@@ -1,12 +1,5 @@
 [
   {
-    "slug": "sar-yer-i-d-r-fk-1-1-ma-sonucu-yaz-l-zet",
-    "title": "Sarıyer - Iğdır FK: 1-1 (Maç sonucu-yazılı özet)",
-    "club": "SÜPER LİG",
-    "status": "posted",
-    "ts": 1794006403.920258
-  },
-  {
     "slug": "antalyaspor-bursaspor-1-1-ma-sonucu-yaz-l-zet",
     "title": "Antalyaspor - Bursaspor: 1-1 (Maç sonucu-yazılı özet)",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795312701.9223194
+  },
+  {
+    "slug": "yazili-zet-bursaspor-pizzabulls-band-rma-bordo-bk-",
+    "title": "(YAZILI ÖZET) Bursaspor - Pizzabulls Bandırma Bordo BK Maç Sonucu: 85-89",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795318972.4067197
   }
 ]
