@@ -1,12 +1,5 @@
 [
   {
-    "slug": "galatasaray-amed-ma-nda-gol-d-ellosu-orban-ve-osim",
-    "title": "Galatasaray – Amed maçında gol düellosu! Orban ve Osimhen detayı",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1794029936.7376213
-  },
-  {
     "slug": "celtic-yenilgisi-barda-ta-rd-be-ikta-ta-radikal-ka",
     "title": "Celtic yenilgisi bardağı taşırdı! Beşiktaş'ta radikal kararlar",
     "club": "BEŞİKTAŞ",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795334482.4098954
+  },
+  {
+    "slug": "galatasaray-aston-villa-ma-n-hakemi-belli-oldu",
+    "title": "Galatasaray-Aston Villa maçını hakemi belli oldu",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795342370.5446951
   }
 ]
