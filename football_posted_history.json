@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-de-archie-brown-karar-astronomik-teklif",
-    "title": "Fenerbahçe'de Archie Brown kararı! Astronomik teklif bekleniyor",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794049967.762835
-  },
-  {
     "slug": "kas-mpa-a-alfred-schreuder-ile-s-zle-me-imzalad",
     "title": "Kasımpaşa Alfred Schreuder ile sözleşme imzaladı",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795357137.6793303
+  },
+  {
+    "slug": "konyaspor-2-4-be-ikta-ma-sonucu-kartal-dan-derbi-n",
+    "title": "Konyaspor 2-4 Beşiktaş maç sonucu | Kartal’dan derbi öncesi kritik zafer!",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795363789.8334522
   }
 ]
