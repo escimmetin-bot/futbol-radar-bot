@@ -1,12 +1,5 @@
 [
   {
-    "slug": "kas-mpa-a-alfred-schreuder-ile-s-zle-me-imzalad",
-    "title": "Kasımpaşa Alfred Schreuder ile sözleşme imzaladı",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794057741.8679504
-  },
-  {
     "slug": "fenerbah-e-arsavev-galatasaray-1-0-ma-sonucu-yaz-l",
     "title": "Fenerbahçe arsaVev - Galatasaray: 1-0 (Maç sonucu-yazılı özet)",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795363789.8334522
+  },
+  {
+    "slug": "manchester-city-deki-galibiyet-avrupa-n-n-umutlar-",
+    "title": "Manchester City'deki galibiyet Avrupa'nın umutlarını artırırken, Spurs \"herkese uygun bir maç\"",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795370684.485964
   }
 ]
