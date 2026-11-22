@@ -1,12 +1,5 @@
 [
   {
-    "slug": "trabzonspor-alia-a-petkimspor-81-91-ma-sonucu-yaz-",
-    "title": "Trabzonspor - Aliağa Petkimspor: 81-91 (Maç sonucu-yazılı özet)",
-    "club": "TRABZONSPOR",
-    "status": "posted",
-    "ts": 1794070883.8114796
-  },
-  {
     "slug": "trio-galatasaray-amedspor-ma-n-yorumlad-gol-sevinc",
     "title": "Trio, Galatasaray - Amedspor maçını yorumladı! Gol sevincinde sarı kart var mı, Amedspor'a penaltı verilmeli miydi?",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795378340.4606311
+  },
+  {
+    "slug": "trabzonspor-ey-pspor-ma-n-n-ard-ndan-ayr-l-k-tak-m",
+    "title": "Trabzonspor-Eyüpspor maçının ardından ayrılık! Takımdan gönderildi",
+    "club": "TRABZONSPOR",
+    "status": "posted_telegram",
+    "ts": 1795385327.7468133
   }
 ]
