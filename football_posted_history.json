@@ -1,12 +1,5 @@
 [
   {
-    "slug": "anderson-manchester-city-nin-ta-nmas-ndan-sonra-be",
-    "title": "Anderson, Manchester City'nin taşınmasından sonra beklentileri karşılayabildi mi?",
-    "club": "SÜPER LİG",
-    "status": "posted",
-    "ts": 1794022654.6946473
-  },
-  {
     "slug": "galatasaray-amed-ma-nda-gol-d-ellosu-orban-ve-osim",
     "title": "Galatasaray – Amed maçında gol düellosu! Orban ve Osimhen detayı",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "TRABZONSPOR",
     "status": "posted_telegram",
     "ts": 1795326431.9546835
+  },
+  {
+    "slug": "okan-buruk-un-neden-k-rm-z-kart-g-rd-ortaya-kt",
+    "title": "Okan Buruk'un neden kırmızı kart gördüğü ortaya çıktı!",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795334482.4098954
   }
 ]
