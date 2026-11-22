@@ -1,12 +1,5 @@
 [
   {
-    "slug": "be-ikta-zalgiris-kaunas-67-83-ma-sonucu-yaz-l-zet",
-    "title": "Beşiktaş - Zalgiris Kaunas: 67-83 (Maç sonucu-yazılı özet)",
-    "club": "BEŞİKTAŞ",
-    "status": "posted",
-    "ts": 1793994176.2452714
-  },
-  {
     "slug": "hakemden-skandal-teklif-hocay-a-k-na-evirdi",
     "title": "Hakemden skandal teklif! Hocayı şaşkına çevirdi",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "REAL MADRİD / ARDA GÜLER",
     "status": "posted_telegram",
     "ts": 1795298844.7564921
+  },
+  {
+    "slug": "emre-bel-zo-lu-ndan-penalt-s-zleri-vedat-a-net-itm",
+    "title": "Emre Belözoğlu'ndan penaltı sözleri: \"Vedat’a net itme var\"",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795305651.0473032
   }
 ]
