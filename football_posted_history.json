@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-arsavev-galatasaray-1-0-ma-sonucu-yaz-l",
-    "title": "Fenerbahçe arsaVev - Galatasaray: 1-0 (Maç sonucu-yazılı özet)",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1794063824.7256625
-  },
-  {
     "slug": "trabzonspor-alia-a-petkimspor-81-91-ma-sonucu-yaz-",
     "title": "Trabzonspor - Aliağa Petkimspor: 81-91 (Maç sonucu-yazılı özet)",
     "club": "TRABZONSPOR",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795370684.485964
+  },
+  {
+    "slug": "yazili-zet-be-ikta-fuzul-fenerbah-e-tarfin-ma-sonu",
+    "title": "(YAZILI ÖZET) Beşiktaş Fuzul - Fenerbahçe Tarfin Maç Sonucu: 92-88",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795378340.4606311
   }
 ]
