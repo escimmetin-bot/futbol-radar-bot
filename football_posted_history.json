@@ -1,12 +1,5 @@
 [
   {
-    "slug": "celtic-yenilgisi-barda-ta-rd-be-ikta-ta-radikal-ka",
-    "title": "Celtic yenilgisi bardağı taşırdı! Beşiktaş'ta radikal kararlar",
-    "club": "BEŞİKTAŞ",
-    "status": "posted",
-    "ts": 1794037700.8787408
-  },
-  {
     "slug": "be-ikta-genoa-n-n-meksikal-y-ld-z-johan-vasquez-i-",
     "title": "Beşiktaş, Genoa'nın Meksikalı yıldızı Johan Vasquez için harekete geçiyor",
     "club": "BEŞİKTAŞ",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795342370.5446951
+  },
+  {
+    "slug": "galatasaray-da-iki-imza-birden",
+    "title": "Galatasaray'da iki imza birden",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795349187.9198585
   }
 ]
