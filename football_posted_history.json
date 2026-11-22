@@ -1,12 +1,5 @@
 [
   {
-    "slug": "hakemden-skandal-teklif-hocay-a-k-na-evirdi",
-    "title": "Hakemden skandal teklif! Hocayı şaşkına çevirdi",
-    "club": "SÜPER LİG",
-    "status": "posted",
-    "ts": 1794000557.645823
-  },
-  {
     "slug": "sar-yer-i-d-r-fk-1-1-ma-sonucu-yaz-l-zet",
     "title": "Sarıyer - Iğdır FK: 1-1 (Maç sonucu-yazılı özet)",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795305651.0473032
+  },
+  {
+    "slug": "fenerbah-e-galatasaray-n-11-puan-gerisine-d-t",
+    "title": "Fenerbahçe, Galatasaray'ın 11 puan gerisine düştü",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795312701.9223194
   }
 ]
