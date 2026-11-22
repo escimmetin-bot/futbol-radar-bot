@@ -1,12 +1,5 @@
 [
   {
-    "slug": "be-ikta-genoa-n-n-meksikal-y-ld-z-johan-vasquez-i-",
-    "title": "Beşiktaş, Genoa'nın Meksikalı yıldızı Johan Vasquez için harekete geçiyor",
-    "club": "BEŞİKTAŞ",
-    "status": "posted",
-    "ts": 1794044124.536663
-  },
-  {
     "slug": "fenerbah-e-de-archie-brown-karar-astronomik-teklif",
     "title": "Fenerbahçe'de Archie Brown kararı! Astronomik teklif bekleniyor",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795349187.9198585
+  },
+  {
+    "slug": "fenerbah-e-de-shakhtar-donetsk-ma-haz-rl-klar-ba-l",
+    "title": "Fenerbahçe'de Shakhtar Donetsk maçı hazırlıkları başladı",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795357137.6793303
   }
 ]
