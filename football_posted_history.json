@@ -1,12 +1,5 @@
 [
   {
-    "slug": "yazili-zet-bursaspor-fenerbah-e-tarfin-ma-sonucu-5",
-    "title": "(YAZILI ÖZET) Bursaspor - Fenerbahçe Tarfin Maç Sonucu: 59-78",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794086715.2351098
-  },
-  {
     "slug": "valencia-real-madrid-0-3-ma-sonucu-yaz-l-zet",
     "title": "Valencia-Real Madrid: 0-3 (Maç sonucu-yazılı özet)",
     "club": "REAL MADRİD / ARDA GÜLER",
@@ -1048,5 +1041,12 @@
     "club": "BEŞİKTAŞ",
     "status": "posted_telegram",
     "ts": 1795392458.5130851
+  },
+  {
+    "slug": "getafe-atletico-madrid-0-3-ma-sonucu-ma-zeti-yaz-l",
+    "title": "Getafe - Atletico Madrid: 0-3 Maç sonucu, maç özeti (Yazılı)",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795398483.0654356
   }
 ]
