@@ -1,12 +1,5 @@
 [
   {
-    "slug": "nottingham-forest-manchester-city-3-1-ma-sonucu-ya",
-    "title": "Nottingham Forest - Manchester City: 3-1 (Maç sonucu-yazılı özet)",
-    "club": "SÜPER LİG",
-    "status": "posted",
-    "ts": 1794109267.6845264
-  },
-  {
     "slug": "alia-a-fk-mu-spor-0-0-ma-sonucu-ma-zeti-yaz-l",
     "title": "Aliağa FK - Muşspor: 0-0 Maç sonucu, maç özeti (Yazılı)",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "TRABZONSPOR",
     "status": "posted_telegram",
     "ts": 1795415692.3595679
+  },
+  {
+    "slug": "galatasaray-dan-yunus-akg-n-ve-lucas-torreira-ya-y",
+    "title": "Galatasaray'dan Yunus Akgün ve Lucas Torreira'ya yeni sözleşme!",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795422143.7361417
   }
 ]
