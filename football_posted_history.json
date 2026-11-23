@@ -1,12 +1,5 @@
 [
   {
-    "slug": "yunus-akg-n-milli-araya-lider-girmek-nemliydi",
-    "title": "Yunus Akgün: \"Milli araya lider girmek önemliydi\"",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1794102816.4148333
-  },
-  {
     "slug": "nottingham-forest-manchester-city-3-1-ma-sonucu-ya",
     "title": "Nottingham Forest - Manchester City: 3-1 (Maç sonucu-yazılı özet)",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795405873.6643195
+  },
+  {
+    "slug": "spor-yazarlar-trabzonspor-ey-pspor-ma-n-de-erlendi",
+    "title": "Spor yazarları Trabzonspor-Eyüpspor maçını değerlendirdi",
+    "club": "TRABZONSPOR",
+    "status": "posted_telegram",
+    "ts": 1795415692.3595679
   }
 ]
