@@ -1,12 +1,5 @@
 [
   {
-    "slug": "olay-anderson-talisca-iddias-devre-aras-transferin",
-    "title": "Olay Anderson Talisca iddiası! Devre arası transferinde...",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794136468.056727
-  },
-  {
     "slug": "band-rmaspor-fatih-karag-mr-k-0-4-ma-sonucu-ma-zet",
     "title": "Bandırmaspor - Fatih Karagümrük: 0-4 Maç sonucu, maç özeti (Yazılı)",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795443441.3400948
+  },
+  {
+    "slug": "psg-fenerbah-e-den-mason-greenwood-u-istiyor-trans",
+    "title": "PSG, Fenerbahçe'den Mason Greenwood'u istiyor! Transfer iddiası",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795452608.4095423
   }
 ]
