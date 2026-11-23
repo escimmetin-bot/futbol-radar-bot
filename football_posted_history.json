@@ -1,12 +1,5 @@
 [
   {
-    "slug": "i-rfan-can-kahveci-200-ma-nda-orum-a-muhte-em-iki-",
-    "title": "İrfan Can Kahveci, 200. maçında Çorum'a muhteşem iki gol attı!",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794150082.2844462
-  },
-  {
     "slug": "orum-daki-gol-sevinci-ok-konu-ulmu-tu-i-rfan-can-d",
     "title": "Çorum'daki gol sevinci çok konuşulmuştu! İrfan Can'dan açıklama geldi",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795459544.838061
+  },
+  {
+    "slug": "burak-y-lmaz-kara-kara-d-n-yor-nce-fenerbah-e-sonr",
+    "title": "Burak Yılmaz kara kara düşünüyor!  Önce Fenerbahçe, sonra Başakşehir",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795466476.977129
   }
 ]
