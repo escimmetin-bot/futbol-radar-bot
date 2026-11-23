@@ -1,12 +1,5 @@
 [
   {
-    "slug": "enner-valencia-n-n-son-dakika-gol-boca-juniors-a-a",
-    "title": "Enner Valencia'nın son dakika golü Boca Juniors'a şampiyonluğu getirdi!",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794130479.6862774
-  },
-  {
     "slug": "olay-anderson-talisca-iddias-devre-aras-transferin",
     "title": "Olay Anderson Talisca iddiası! Devre arası transferinde...",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795434273.024248
+  },
+  {
+    "slug": "atila-gerin-den-kayserispor-a-klamalar-36-gol-tran",
+    "title": "Atila Gerin’den Kayserispor açıklamaları: 36 gol, transfer ve taraftar",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795443441.3400948
   }
 ]
