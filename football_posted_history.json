@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-ye-200-milyon-euro-luk-sambac-danilo",
-    "title": "Fenerbahçe'ye 200 milyon Euro'luk Sambacı Danilo!",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794124210.3358338
-  },
-  {
     "slug": "enner-valencia-n-n-son-dakika-gol-boca-juniors-a-a",
     "title": "Enner Valencia'nın son dakika golü Boca Juniors'a şampiyonluğu getirdi!",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795427480.4330668
+  },
+  {
+    "slug": "okan-buruk-ampiyonlar-ligi-nde-her-alaca-n-z-puan-",
+    "title": "Okan Buruk: \"Şampiyonlar Ligi'nde her alacağınız puan değerli\"",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795434273.024248
   }
 ]
