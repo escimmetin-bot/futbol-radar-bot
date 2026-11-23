@@ -1,12 +1,5 @@
 [
   {
-    "slug": "orum-daki-gol-sevinci-ok-konu-ulmu-tu-i-rfan-can-d",
-    "title": "Çorum'daki gol sevinci çok konuşulmuştu! İrfan Can'dan açıklama geldi",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794158672.2084136
-  },
-  {
     "slug": "joao-pereira-sorumluluktan-ka-acak-biri-de-ilim",
     "title": "Joao Pereira: \"Sorumluluktan kaçacak biri değilim\"",
     "club": "TRABZONSPOR",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795466476.977129
+  },
+  {
+    "slug": "dzanan-musa-i-stanbul-dan-teklif-g-r-nce-fenerbah-",
+    "title": "Dzanan Musa: \"İstanbul'dan teklif görünce Fenerbahçe sanmıştım\"",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795473689.3679285
   }
 ]
