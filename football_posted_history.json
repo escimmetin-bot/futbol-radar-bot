@@ -1,12 +1,5 @@
 [
   {
-    "slug": "band-rmaspor-fatih-karag-mr-k-0-4-ma-sonucu-ma-zet",
-    "title": "Bandırmaspor - Fatih Karagümrük: 0-4 Maç sonucu, maç özeti (Yazılı)",
-    "club": "SÜPER LİG",
-    "status": "posted",
-    "ts": 1794144140.765034
-  },
-  {
     "slug": "i-rfan-can-kahveci-200-ma-nda-orum-a-muhte-em-iki-",
     "title": "İrfan Can Kahveci, 200. maçında Çorum'a muhteşem iki gol attı!",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795452608.4095423
+  },
+  {
+    "slug": "fenerbah-e-ye-arsenal-den-22-lik-y-ld-z",
+    "title": "Fenerbahçe'ye Arsenal'den 22'lik yıldız!",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795459544.838061
   }
 ]
