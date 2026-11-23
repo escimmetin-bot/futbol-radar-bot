@@ -1,12 +1,5 @@
 [
   {
-    "slug": "alia-a-fk-mu-spor-0-0-ma-sonucu-ma-zeti-yaz-l",
-    "title": "Aliağa FK - Muşspor: 0-0 Maç sonucu, maç özeti (Yazılı)",
-    "club": "SÜPER LİG",
-    "status": "posted",
-    "ts": 1794116345.3875113
-  },
-  {
     "slug": "fenerbah-e-ye-200-milyon-euro-luk-sambac-danilo",
     "title": "Fenerbahçe'ye 200 milyon Euro'luk Sambacı Danilo!",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795422143.7361417
+  },
+  {
+    "slug": "shakhtar-donetsk-fenerbah-e-ma-n-n-hakemi-belli-ol",
+    "title": "Shakhtar Donetsk-Fenerbahçe maçının hakemi belli oldu",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795427480.4330668
   }
 ]
