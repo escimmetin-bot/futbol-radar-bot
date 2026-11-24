@@ -1,12 +1,5 @@
 [
   {
-    "slug": "galatasaray-haberi-transferi-lemina-bitirecek-arka",
-    "title": "GALATASARAY HABERİ: Transferi Lemina bitirecek! Arkadaşını getiriyor...",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1794228684.6513495
-  },
-  {
     "slug": "torreira-galatasaray-dan-ayr-laca-tarihi-s-yledi",
     "title": "Torreira, Galatasaray'dan ayrılacağı tarihi söyledi",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795542291.7973797
+  },
+  {
+    "slug": "galatasaray-aston-villa-1-0-ma-sonucu-ma-zeti-yaz-",
+    "title": "Galatasaray - Aston Villa: 1-0 Maç sonucu, maç özeti (Yazılı)",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795550034.70776
   }
 ]
