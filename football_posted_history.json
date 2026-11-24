@@ -1,12 +1,5 @@
 [
   {
-    "slug": "dusan-tadic-ilke-imza-att-galibiyeti-getirdi",
-    "title": "Dusan Tadic ilke imza attı, galibiyeti getirdi",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794221170.816912
-  },
-  {
     "slug": "galatasaray-haberi-transferi-lemina-bitirecek-arka",
     "title": "GALATASARAY HABERİ: Transferi Lemina bitirecek! Arkadaşını getiriyor...",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795534187.2859602
+  },
+  {
+    "slug": "galatasaray-aston-villa-ma-canl-izle-linki",
+    "title": "Galatasaray - Aston Villa maçı canlı izle linki",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795542291.7973797
   }
 ]
