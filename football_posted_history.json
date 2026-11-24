@@ -1,12 +1,5 @@
 [
   {
-    "slug": "man-utd-sekiz-goll-gerilimde-puanlar-payla-mak-i-i",
-    "title": "Man Utd, sekiz gollü gerilimde puanları paylaşmak için duraklama süresinde iki gol attı",
-    "club": "SÜPER LİG",
-    "status": "posted",
-    "ts": 1794195882.5100627
-  },
-  {
     "slug": "fenerbah-e-haberi-dusan-tadic-i-stanbul-dan-ayr-ld",
     "title": "FENERBAHÇE HABERİ | Dusan Tadic İstanbul'dan ayrıldı!",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795508421.116123
+  },
+  {
+    "slug": "batrakov-un-menajeri-i-stanbul-a-geldi-s-zle-me-a-",
+    "title": "Batrakov'un menajeri İstanbul'a geldi! Sözleşme açıklaması...",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795517254.8228796
   }
 ]
