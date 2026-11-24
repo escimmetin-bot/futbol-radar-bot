@@ -1,12 +1,5 @@
 [
   {
-    "slug": "be-ikta-gen-lerbirli-i-3-0-ma-sonucu-yaz-l-zet",
-    "title": "Beşiktaş - Gençlerbirliği: 3-0 (Maç sonucu-yazılı özet)",
-    "club": "BEŞİKTAŞ",
-    "status": "posted",
-    "ts": 1794171672.8554425
-  },
-  {
     "slug": "ola-an-st-brighton-art-k-arsenal-in-ampiyonluk-i-i",
     "title": "'Olağanüstü' Brighton artık Arsenal'in şampiyonluk için en büyük rakibi mi?",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795481303.2392895
+  },
+  {
+    "slug": "savunarak-345-ma-kazanamazs-n-z-simeone-la-liga-re",
+    "title": "'Savunarak 345 maç kazanamazsınız' - Simeone La Liga rekorunu kırdı",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795490355.7877302
   }
 ]
