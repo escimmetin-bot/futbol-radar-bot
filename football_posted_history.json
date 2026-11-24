@@ -1,12 +1,5 @@
 [
   {
-    "slug": "joao-pereira-sorumluluktan-ka-acak-biri-de-ilim",
-    "title": "Joao Pereira: \"Sorumluluktan kaçacak biri değilim\"",
-    "club": "TRABZONSPOR",
-    "status": "posted",
-    "ts": 1794165384.8408608
-  },
-  {
     "slug": "be-ikta-gen-lerbirli-i-3-0-ma-sonucu-yaz-l-zet",
     "title": "Beşiktaş - Gençlerbirliği: 3-0 (Maç sonucu-yazılı özet)",
     "club": "BEŞİKTAŞ",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795473689.3679285
+  },
+  {
+    "slug": "bursaspor-trib-nlerinde-inan-lmaz-tablo",
+    "title": "Bursaspor tribünlerinde inanılmaz tablo!",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795481303.2392895
   }
 ]
