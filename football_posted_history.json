@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-de-dzeko-ve-tadic-i-in-neden-veda-t-ren",
-    "title": "Fenerbahçe'de Dzeko ve Tadic için neden veda töreni düzenlenmedi? İşte o flaş gerçek",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794189495.530886
-  },
-  {
     "slug": "man-utd-sekiz-goll-gerilimde-puanlar-payla-mak-i-i",
     "title": "Man Utd, sekiz gollü gerilimde puanları paylaşmak için duraklama süresinde iki gol attı",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795498352.606205
+  },
+  {
+    "slug": "emre-bel-zo-lu-shakhtar-donetsk-ma-yla-fenerbah-e-",
+    "title": "Emre Belözoğlu, Shakhtar Donetsk maçıyla Fenerbahçe tarihine geçecek",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795508421.116123
   }
 ]
