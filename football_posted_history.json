@@ -1,12 +1,5 @@
 [
   {
-    "slug": "torreira-galatasaray-dan-ayr-laca-tarihi-s-yledi",
-    "title": "Torreira, Galatasaray'dan ayrılacağı tarihi söyledi",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1794237642.8211493
-  },
-  {
     "slug": "fenerbah-e-nin-eski-y-ld-z-46-ya-nda-hala-gol-at-y",
     "title": "Fenerbahçe'nin eski yıldızı 46 yaşında hala gol atıyor",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795550034.70776
+  },
+  {
+    "slug": "vi-deo-deniz-g-l-gol-n-att-kanlar-i-inde-kald",
+    "title": "VİDEO | Deniz Gül golünü attı, kanlar içinde kaldı",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795556787.019396
   }
 ]
