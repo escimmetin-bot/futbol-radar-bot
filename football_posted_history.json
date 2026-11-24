@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-haberi-dusan-tadic-i-stanbul-dan-ayr-ld",
-    "title": "FENERBAHÇE HABERİ | Dusan Tadic İstanbul'dan ayrıldı!",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794203626.8610725
-  },
-  {
     "slug": "spor-yazarlar-alanyaspor-trabzonspor-ma-n-de-erlen",
     "title": "Spor yazarları, Alanyaspor-Trabzonspor maçını değerlendirdi: Şampiyonluk alameti",
     "club": "TRABZONSPOR",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795517254.8228796
+  },
+  {
+    "slug": "mourinho-vinicius-u-sat-a-m-haz-rl-yor-canizares-t",
+    "title": "Mourinho, Vinicius'u satışa mı hazırlıyor? Canizares'ten iddalı sözler",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795524984.3775473
   }
 ]
