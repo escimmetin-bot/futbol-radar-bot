@@ -1,12 +1,5 @@
 [
   {
-    "slug": "ola-an-st-brighton-art-k-arsenal-in-ampiyonluk-i-i",
-    "title": "'Olağanüstü' Brighton artık Arsenal'in şampiyonluk için en büyük rakibi mi?",
-    "club": "SÜPER LİG",
-    "status": "posted",
-    "ts": 1794180321.6036973
-  },
-  {
     "slug": "fenerbah-e-de-dzeko-ve-tadic-i-in-neden-veda-t-ren",
     "title": "Fenerbahçe'de Dzeko ve Tadic için neden veda töreni düzenlenmedi? İşte o flaş gerçek",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795490355.7877302
+  },
+  {
+    "slug": "raya-dortmund-ma-n-ka-racak-ancak-sakatl-ciddi-de-",
+    "title": "Raya Dortmund maçını kaçıracak ancak sakatlığı 'ciddi değil'",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795498352.606205
   }
 ]
