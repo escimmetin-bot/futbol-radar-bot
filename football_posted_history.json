@@ -1,12 +1,5 @@
 [
   {
-    "slug": "spor-yazarlar-alanyaspor-trabzonspor-ma-n-de-erlen",
-    "title": "Spor yazarları, Alanyaspor-Trabzonspor maçını değerlendirdi: Şampiyonluk alameti",
-    "club": "TRABZONSPOR",
-    "status": "posted",
-    "ts": 1794213833.6466296
-  },
-  {
     "slug": "dusan-tadic-ilke-imza-att-galibiyeti-getirdi",
     "title": "Dusan Tadic ilke imza attı, galibiyeti getirdi",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795524984.3775473
+  },
+  {
+    "slug": "shakhtar-donetsk-fenerbah-e-ma-ne-zaman-hangi-kana",
+    "title": "Shakhtar Donetsk - Fenerbahçe maçı ne zaman, hangi kanalda? Muhtemel 11'ler, sakat ve cezalılar",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795534187.2859602
   }
 ]
