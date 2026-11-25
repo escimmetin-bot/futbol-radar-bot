@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-ye-veda-eden-edin-dzeko-i-stanbul-dan-a",
-    "title": "Fenerbahçe'ye veda eden Edin Dzeko İstanbul'dan ayrıldı",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794281916.172957
-  },
-  {
     "slug": "galatasaray-dan-fla-okan-buruk-karar-yeni-sezonda",
     "title": "Galatasaray'dan flaş Okan Buruk kararı! Yeni sezonda...",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795595265.870751
+  },
+  {
+    "slug": "fenerbah-e-ma-ncesi-arda-turan-i-in-fla-ayr-l-k-id",
+    "title": "Fenerbahçe maçı öncesi Arda Turan için flaş ayrılık iddiası",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795603784.4421158
   }
 ]
