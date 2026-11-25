@@ -1,12 +1,5 @@
 [
   {
-    "slug": "uefa-t-rk-tak-mlar-na-ne-kadar-para-dedi-i-te-ayr-",
-    "title": "UEFA Türk takımlarına ne kadar para ödedi? İşte ayrıntılar...",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1794303934.4184797
-  },
-  {
     "slug": "emre-bel-zo-lu-ve-arda-turan-dan-s-rpriz-bulu-ma-n",
     "title": "Emre Belözoğlu ve Arda Turan'dan sürpriz buluşma! Önce namaz, sonra salep",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795620594.2866826
+  },
+  {
+    "slug": "pas-pas-yava-yava-manchester-city-nin-kaygan-makin",
+    "title": "'Pas, pas, yavaş, yavaş' - Manchester City'nin kaygan makinesi durma noktasına geliyor",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795628664.542658
   }
 ]
