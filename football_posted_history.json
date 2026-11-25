@@ -1,12 +1,5 @@
 [
   {
-    "slug": "galatasaray-da-leroy-sane-ayr-l-yor-mu-ocak-ay-kar",
-    "title": "Galatasaray'da Leroy Sane ayrılıyor mu? Ocak ayı kararı",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1794275549.7177718
-  },
-  {
     "slug": "fenerbah-e-ye-veda-eden-edin-dzeko-i-stanbul-dan-a",
     "title": "Fenerbahçe'ye veda eden Edin Dzeko İstanbul'dan ayrıldı",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795589820.9718592
+  },
+  {
+    "slug": "t-mer-metin-den-galatasaray-n-aston-villa-galibiye",
+    "title": "Tümer Metin'den Galatasaray'ın Aston Villa galibiyetinin ardından flaş derbi tahmini",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795595265.870751
   }
 ]
