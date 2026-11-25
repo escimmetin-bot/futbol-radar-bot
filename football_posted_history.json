@@ -1,12 +1,5 @@
 [
   {
-    "slug": "greenwood-fenerbah-eli-taraftarlar-hakl-kard",
-    "title": "Greenwood, Fenerbahçeli taraftarları haklı çıkardı",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794265766.9199255
-  },
-  {
     "slug": "galatasaray-da-leroy-sane-ayr-l-yor-mu-ocak-ay-kar",
     "title": "Galatasaray'da Leroy Sane ayrılıyor mu? Ocak ayı kararı",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "REAL MADRİD / ARDA GÜLER",
     "status": "posted_telegram",
     "ts": 1795581427.7492442
+  },
+  {
+    "slug": "fenerbah-e-den-barcelona-kar-s-nda-m-thi-geri-d-n",
+    "title": "Fenerbahçe'den Barcelona karşısında müthiş geri dönüş",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795589820.9718592
   }
 ]
