@@ -1,12 +1,5 @@
 [
   {
-    "slug": "galatasaray-dan-fla-okan-buruk-karar-yeni-sezonda",
-    "title": "Galatasaray'dan flaş Okan Buruk kararı! Yeni sezonda...",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1794289345.0803397
-  },
-  {
     "slug": "emre-bel-zo-lu-transfer-listesini-verdi-i-te-hedef",
     "title": "Emre Belözoğlu transfer listesini verdi! İşte hedefteki iki isim...",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795603784.4421158
+  },
+  {
+    "slug": "fenerbah-e-nin-eski-y-ld-z-t-rkiye-ye-d-nd-transfe",
+    "title": "Fenerbahçe'nin eski yıldızı Türkiye'ye döndü! Transfer resmen açıklandı",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795611545.9802213
   }
 ]
