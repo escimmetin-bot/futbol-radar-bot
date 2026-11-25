@@ -1,12 +1,5 @@
 [
   {
-    "slug": "emre-bel-zo-lu-transfer-listesini-verdi-i-te-hedef",
-    "title": "Emre Belözoğlu transfer listesini verdi! İşte hedefteki iki isim...",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794297677.9233067
-  },
-  {
     "slug": "uefa-t-rk-tak-mlar-na-ne-kadar-para-dedi-i-te-ayr-",
     "title": "UEFA Türk takımlarına ne kadar para ödedi? İşte ayrıntılar...",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795611545.9802213
+  },
+  {
+    "slug": "fenerbah-e-de-dzeko-ve-tadic-i-in-neden-veda-t-ren",
+    "title": "Fenerbahçe'de Dzeko ve Tadic için neden veda töreni düzenlenmedi? İşte o flaş gerçek",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795620594.2866826
   }
 ]
