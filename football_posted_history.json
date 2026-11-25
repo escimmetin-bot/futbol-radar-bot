@@ -1,12 +1,5 @@
 [
   {
-    "slug": "i-talya-da-zaniolo-oku-milli-tak-m-kamp-ndan-ayr-l",
-    "title": "İtalya'da Zaniolo şoku! Milli Takım kampından ayrıldı",
-    "club": "GALATASARAY",
-    "status": "posted",
-    "ts": 1794319278.2126873
-  },
-  {
     "slug": "fenerbah-e-de-fla-ayr-l-k",
     "title": "Fenerbahçe'de flaş ayrılık!",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795635948.7038279
+  },
+  {
+    "slug": "ma-sonucu-sabah-fk-barcelona-ma-sonucu-1-4",
+    "title": "(MAÇ SONUCU) Sabah FK - Barcelona Maç Sonucu: 1-4",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795643244.7474308
   }
 ]
