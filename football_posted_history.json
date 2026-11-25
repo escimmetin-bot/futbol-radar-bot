@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-de-fla-ayr-l-k",
-    "title": "Fenerbahçe'de flaş ayrılık!",
-    "club": "FENERBAHÇE",
-    "status": "posted_telegram",
-    "ts": 1794324975.4450026
-  },
-  {
     "slug": "spor-yazarlar-galatasaray-rams-ba-ak-ehir-ma-n-de-",
     "title": "Spor yazarları Galatasaray - RAMS Başakşehir maçını değerlendirdi",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795643244.7474308
+  },
+  {
+    "slug": "blunt-villa-galatasaray-n-son-ampiyonuna-yenildi",
+    "title": "Blunt Villa, Galatasaray'ın son şampiyonuna yenildi",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795650032.9731252
   }
 ]
