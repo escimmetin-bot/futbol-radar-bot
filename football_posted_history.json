@@ -1,12 +1,5 @@
 [
   {
-    "slug": "emre-bel-zo-lu-d-meye-bast-fenerbah-e-de-bir-ayr-l",
-    "title": "Emre Belözoğlu düğmeye bastı! Fenerbahçe'de bir ayrılık daha kapıda",
-    "club": "FENERBAHÇE",
-    "status": "posted",
-    "ts": 1794252366.2396123
-  },
-  {
     "slug": "yazili-zet-kar-yaka-be-ikta-ma-sonucu-84-83",
     "title": "(YAZILI ÖZET) Karşıyaka - Beşiktaş Maç Sonucu: 84-83",
     "club": "BEŞİKTAŞ",
@@ -1048,5 +1041,12 @@
     "club": "REAL MADRİD / ARDA GÜLER",
     "status": "posted_telegram",
     "ts": 1795563610.67329
+  },
+  {
+    "slug": "yunus-akg-n-sahada-keyif-alan-bir-galatasaray-var",
+    "title": "Yunus Akgün: \"Sahada keyif alan bir Galatasaray var\"",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795572807.9380715
   }
 ]
