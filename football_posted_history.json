@@ -1,12 +1,5 @@
 [
   {
-    "slug": "yazili-zet-kar-yaka-be-ikta-ma-sonucu-84-83",
-    "title": "(YAZILI ÖZET) Karşıyaka - Beşiktaş Maç Sonucu: 84-83",
-    "club": "BEŞİKTAŞ",
-    "status": "posted",
-    "ts": 1794259025.0189626
-  },
-  {
     "slug": "greenwood-fenerbah-eli-taraftarlar-hakl-kard",
     "title": "Greenwood, Fenerbahçeli taraftarları haklı çıkardı",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795572807.9380715
+  },
+  {
+    "slug": "vi-deo-arda-g-ler-den-real-madrid-psv-ma-nda-2-asi",
+    "title": "VİDEO | Arda Güler'den Real Madrid - PSV maçında 2 asist!",
+    "club": "REAL MADRİD / ARDA GÜLER",
+    "status": "posted_telegram",
+    "ts": 1795581427.7492442
   }
 ]
