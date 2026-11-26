@@ -1,12 +1,5 @@
 [
   {
-    "slug": "salah-i-ngiltere-g-nlerini-aratm-yor",
-    "title": "Salah, İngiltere günlerini aratmıyor",
-    "club": "TRABZONSPOR",
-    "status": "posted_telegram",
-    "ts": 1794384534.7866867
-  },
-  {
     "slug": "enol-g-ne-ten-y-llar-sonra-gelen-oluyla-derbi-a-kl",
     "title": "Şenol Güneş'ten yıllar sonra gelen oluyla derbi açıklaması: \"Ben artistsem figüranlar nerede?\"",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795706909.0205145
+  },
+  {
+    "slug": "trabzonspor-da-ayr-l-k-talebi-reis-ve-y-netimden-i",
+    "title": "Trabzonspor'da ayrılık talebi! Reis ve yönetimden izin istedi",
+    "club": "TRABZONSPOR",
+    "status": "posted_telegram",
+    "ts": 1795715191.0725741
   }
 ]
