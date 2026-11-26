@@ -1,12 +1,5 @@
 [
   {
-    "slug": "sabah-bc-trabzonspor-91-72-ma-sonucu-yaz-l-zet",
-    "title": "Sabah BC-Trabzonspor: 91-72 (Maç sonucu-yazılı özet)",
-    "club": "TRABZONSPOR",
-    "status": "posted_telegram",
-    "ts": 1794339698.351343
-  },
-  {
     "slug": "trabzonspor-da-sel-uk-ernak-ile-yollar-ayr-ld",
     "title": "Trabzonspor'da Selçuk Ernak ile yollar ayrıldı",
     "club": "TRABZONSPOR",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795659085.5433614
+  },
+  {
+    "slug": "slavia-prag-villarreal-0-1-ma-sonucu-yaz-l-zet",
+    "title": "Slavia Prag-Villarreal: 0-1 (Maç sonucu-yazılı özet)",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795667659.150699
   }
 ]
