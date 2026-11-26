@@ -1,12 +1,5 @@
 [
   {
-    "slug": "spor-yazarlar-galatasaray-rams-ba-ak-ehir-ma-n-de-",
-    "title": "Spor yazarları Galatasaray - RAMS Başakşehir maçını değerlendirdi",
-    "club": "GALATASARAY",
-    "status": "posted_telegram",
-    "ts": 1794332341.1727843
-  },
-  {
     "slug": "sabah-bc-trabzonspor-91-72-ma-sonucu-yaz-l-zet",
     "title": "Sabah BC-Trabzonspor: 91-72 (Maç sonucu-yazılı özet)",
     "club": "TRABZONSPOR",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795650032.9731252
+  },
+  {
+    "slug": "shakhtar-donetsk-fenerbah-e-0-1-ma-sonucu-yaz-l-ze",
+    "title": "Shakhtar Donetsk-Fenerbahçe: 0-1 (Maç sonucu-yazılı özet)",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795659085.5433614
   }
 ]
