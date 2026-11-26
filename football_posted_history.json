@@ -1,12 +1,5 @@
 [
   {
-    "slug": "onvo-antalyaspor-trabzonspor-ma-n-n-ard-ndan-fla-d",
-    "title": "Onvo Antalyaspor-Trabzonspor maçının ardından flaş değerlendirme",
-    "club": "TRABZONSPOR",
-    "status": "posted_telegram",
-    "ts": 1794368555.039892
-  },
-  {
     "slug": "fenerbah-e-haberi-mourinho-nun-ekibinde-yaprak-d-k",
     "title": "FENERBAHÇE HABERİ | Mourinho'nun ekibinde yaprak dökümü! 4 isim...",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795690205.1264718
+  },
+  {
+    "slug": "isak-liverpool-un-brugge-u-yendi-i-klinik-ma-ta-ik",
+    "title": "Isak, Liverpool'un Brugge'u yendiği klinik maçta iki gol attı",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795697871.6439965
   }
 ]
