@@ -1,12 +1,5 @@
 [
   {
-    "slug": "trabzonspor-da-sel-uk-ernak-ile-yollar-ayr-ld",
-    "title": "Trabzonspor'da Selçuk Ernak ile yollar ayrıldı",
-    "club": "TRABZONSPOR",
-    "status": "posted_telegram",
-    "ts": 1794346187.1372738
-  },
-  {
     "slug": "dolomiti-energia-trento-tofa-86-96-ma-sonucu-yaz-l",
     "title": "Dolomiti Energia Trento - TOFAŞ: 86-96 (Maç sonucu-yazılı özet)",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795667659.150699
+  },
+  {
+    "slug": "mer-r-nd-l-shakhtar-galibiyetinin-ard-ndan-emre-be",
+    "title": "Ömer Üründül, Shakhtar galibiyetinin ardından \"Emre Belözoğlu'na bir tavsiyem var\" diyerek açıkladı",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795676173.910623
   }
 ]
