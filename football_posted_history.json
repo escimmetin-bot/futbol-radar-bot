@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-haberi-mourinho-nun-ekibinde-yaprak-d-k",
-    "title": "FENERBAHÇE HABERİ | Mourinho'nun ekibinde yaprak dökümü! 4 isim...",
-    "club": "FENERBAHÇE",
-    "status": "posted_telegram",
-    "ts": 1794376031.0829422
-  },
-  {
     "slug": "salah-i-ngiltere-g-nlerini-aratm-yor",
     "title": "Salah, İngiltere günlerini aratmıyor",
     "club": "TRABZONSPOR",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795697871.6439965
+  },
+  {
+    "slug": "diagne-bilmecesi-z-ld-kul-pten-resmi-a-klama",
+    "title": "Diagne bilmecesi çözüldü! Kulüpten resmi açıklama",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795706909.0205145
   }
 ]
