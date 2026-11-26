@@ -1,12 +1,5 @@
 [
   {
-    "slug": "enol-g-ne-ten-y-llar-sonra-gelen-oluyla-derbi-a-kl",
-    "title": "Şenol Güneş'ten yıllar sonra gelen oluyla derbi açıklaması: \"Ben artistsem figüranlar nerede?\"",
-    "club": "FENERBAHÇE",
-    "status": "posted_telegram",
-    "ts": 1794392745.5191133
-  },
-  {
     "slug": "trabzonspor-a-premier-lig-den-orta-saha-32-milyon-",
     "title": "Trabzonspor'a Premier Lig'den orta saha! 32 milyon Euro'luk yıldız listede",
     "club": "TRABZONSPOR",
@@ -1048,5 +1041,12 @@
     "club": "TRABZONSPOR",
     "status": "posted_telegram",
     "ts": 1795715191.0725741
+  },
+  {
+    "slug": "fenerbah-e-haberi-dusan-tadic-i-stanbul-dan-ayr-ld",
+    "title": "FENERBAHÇE HABERİ | Dusan Tadic İstanbul'dan ayrıldı!",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795722879.0173216
   }
 ]
