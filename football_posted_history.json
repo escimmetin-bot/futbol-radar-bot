@@ -1,12 +1,5 @@
 [
   {
-    "slug": "u-bt-cluj-napoca-t-rk-telekom-81-89-ma-sonucu-yaz-",
-    "title": "U-BT Cluj-Napoca - Türk Telekom: 81-89 (Maç sonucu-yazılı özet)",
-    "club": "SÜPER LİG",
-    "status": "posted_telegram",
-    "ts": 1794361921.9405532
-  },
-  {
     "slug": "onvo-antalyaspor-trabzonspor-ma-n-n-ard-ndan-fla-d",
     "title": "Onvo Antalyaspor-Trabzonspor maçının ardından flaş değerlendirme",
     "club": "TRABZONSPOR",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795681432.443512
+  },
+  {
+    "slug": "fenerbah-e-nin-eski-y-ld-z-3-y-l-sonra-d-nd-transf",
+    "title": "Fenerbahçe'nin eski yıldızı 3 yıl sonra döndü! Transfer resmen açıklandı",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795690205.1264718
   }
 ]
