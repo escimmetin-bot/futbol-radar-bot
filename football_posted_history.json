@@ -1,12 +1,5 @@
 [
   {
-    "slug": "trabzonspor-a-premier-lig-den-orta-saha-32-milyon-",
-    "title": "Trabzonspor'a Premier Lig'den orta saha! 32 milyon Euro'luk yıldız listede",
-    "club": "TRABZONSPOR",
-    "status": "posted_telegram",
-    "ts": 1794399607.1116557
-  },
-  {
     "slug": "fenerbah-eli-y-ld-z-yeni-tak-m-na-imza-atmak-zere-",
     "title": "Fenerbahçeli yıldız yeni takımına imza atmak üzere iniş yaptı!",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795722879.0173216
+  },
+  {
+    "slug": "f-bah-e-shakhtar-geride-b-rakarak-st-ste-galibiyet",
+    "title": "F.Bahçe, Shakhtar'ı geride bırakarak üst üste galibiyetlere imza attı",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795729342.4784973
   }
 ]
