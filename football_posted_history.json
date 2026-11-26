@@ -1,12 +1,5 @@
 [
   {
-    "slug": "dolomiti-energia-trento-tofa-86-96-ma-sonucu-yaz-l",
-    "title": "Dolomiti Energia Trento - TOFAŞ: 86-96 (Maç sonucu-yazılı özet)",
-    "club": "SÜPER LİG",
-    "status": "posted_telegram",
-    "ts": 1794351938.6243863
-  },
-  {
     "slug": "u-bt-cluj-napoca-t-rk-telekom-81-89-ma-sonucu-yaz-",
     "title": "U-BT Cluj-Napoca - Türk Telekom: 81-89 (Maç sonucu-yazılı özet)",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795676173.910623
+  },
+  {
+    "slug": "ersin-destano-lu-nun-ma-nda-sarho-hakem-skandal",
+    "title": "Ersin Destanoğlu'nun maçında\" sarhoş hakem\" skandalı",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795681432.443512
   }
 ]
