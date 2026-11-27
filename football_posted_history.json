@@ -1,12 +1,5 @@
 [
   {
-    "slug": "galatasaray-made-mobilya-gebze-belediyespor-3-0-ma",
-    "title": "Galatasaray Madeş Mobilya- Gebze Belediyespor: 3-0 (Maç sonucu-yazılı özet)",
-    "club": "GALATASARAY",
-    "status": "posted_telegram",
-    "ts": 1794462576.4767022
-  },
-  {
     "slug": "cedric-bakambu-dan-erken-veda-ayr-l-k-karar-n-n-ar",
     "title": "Cedric Bakambu'dan erken veda! Ayrılık kararının arkasından dava çıktı",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795776342.9398456
+  },
+  {
+    "slug": "brahim-diaz-imzay-att-5-y-ll-k-s-zle-me",
+    "title": "Brahim Diaz imzayı attı! 5 yıllık sözleşme...",
+    "club": "REAL MADRİD / ARDA GÜLER",
+    "status": "posted_telegram",
+    "ts": 1795784097.775469
   }
 ]
