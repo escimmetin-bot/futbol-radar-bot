@@ -1,12 +1,5 @@
 [
   {
-    "slug": "be-ikta-oumar-solet-i-in-harekete-ge-ti",
-    "title": "Beşiktaş, Oumar Solet için harekete geçti",
-    "club": "BEŞİKTAŞ",
-    "status": "posted_telegram",
-    "ts": 1794426551.6852376
-  },
-  {
     "slug": "fenerbah-e-brezilyal-orta-saha-breno-bidon-u-izliy",
     "title": "Fenerbahçe, Brezilyalı orta saha Breno Bidon'u izliyor!",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "TRABZONSPOR",
     "status": "posted_telegram",
     "ts": 1795736730.9156098
+  },
+  {
+    "slug": "cska-sofya-trabzonspor-1-2-ma-sonucu-ma-zeti-yaz-l",
+    "title": "CSKA Sofya - Trabzonspor: 1-2 Maç sonucu, maç özeti (Yazılı)",
+    "club": "TRABZONSPOR",
+    "status": "posted_telegram",
+    "ts": 1795745738.1056483
   }
 ]
