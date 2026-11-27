@@ -1,12 +1,5 @@
 [
   {
-    "slug": "ampiyonlar-ligi-ve-avrupa-kupalar-yeniden-exxen-de",
-    "title": "Şampiyonlar Ligi ve Avrupa kupaları yeniden Exxen'de!",
-    "club": "A MİLLİ TAKIM",
-    "status": "posted_telegram",
-    "ts": 1794486048.3866303
-  },
-  {
     "slug": "brezilya-da-transfer-g-ndemi-carlos-vinicius-a-y-k",
     "title": "Brezilya'da transfer gündemi! Carlos Vinicius'a yüksek maaş teklifi",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795800637.3043795
+  },
+  {
+    "slug": "be-ikta-raimond-sassari-42-29-ma-sonucu-ma-zeti-ya",
+    "title": "Beşiktaş - Raimond Sassari: 42-29 Maç sonucu, maç özeti (Yazılı)",
+    "club": "BEŞİKTAŞ",
+    "status": "posted_telegram",
+    "ts": 1795807662.8578064
   }
 ]
