@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-brezilyal-orta-saha-breno-bidon-u-izliy",
-    "title": "Fenerbahçe, Brezilyalı orta saha Breno Bidon'u izliyor!",
-    "club": "FENERBAHÇE",
-    "status": "posted_telegram",
-    "ts": 1794432047.492461
-  },
-  {
     "slug": "lider-rol-model-ola-an-st-kane-in-peri-masal-nas-l",
     "title": "Lider, rol model, olağanüstü - Kane'in 'peri masalı' nasıl gerçeğe dönüştü?",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "TRABZONSPOR",
     "status": "posted_telegram",
     "ts": 1795745738.1056483
+  },
+  {
+    "slug": "galatasaray-haberi-transferi-lemina-bitirecek-arka",
+    "title": "GALATASARAY HABERİ: Transferi Lemina bitirecek! Arkadaşını getiriyor...",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795754138.2195559
   }
 ]
