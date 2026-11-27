@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-arsavev-real-sociedad-0-2-ma-sonucu-yaz",
-    "title": "Fenerbahçe arsaVev-Real Sociedad: 0-2 (Maç sonucu-yazılı özet)",
-    "club": "FENERBAHÇE",
-    "status": "posted_telegram",
-    "ts": 1794454937.9965274
-  },
-  {
     "slug": "galatasaray-made-mobilya-gebze-belediyespor-3-0-ma",
     "title": "Galatasaray Madeş Mobilya- Gebze Belediyespor: 3-0 (Maç sonucu-yazılı özet)",
     "club": "GALATASARAY",
@@ -1048,5 +1041,12 @@
     "club": "TRABZONSPOR",
     "status": "posted_telegram",
     "ts": 1795767895.243461
+  },
+  {
+    "slug": "jamal-musiala-bombas-serbest-kalma-bedelini-deyip-",
+    "title": "Jamal Musiala bombası! Serbest kalma bedelini ödeyip transfer edecekler",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795776342.9398456
   }
 ]
