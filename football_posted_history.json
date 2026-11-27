@@ -1,12 +1,5 @@
 [
   {
-    "slug": "barcelona-gen-y-ld-z-n-b-rakm-yor-marc-bernal-ile-",
-    "title": "Barcelona genç yıldızını bırakmıyor! Marc Bernal ile anlaşma sağlandı",
-    "club": "SÜPER LİG",
-    "status": "posted_telegram",
-    "ts": 1794502179.4343152
-  },
-  {
     "slug": "fenerbah-e-den-shakhtar-donetsk-deplasman-bilet-a-",
     "title": "Fenerbahçe'den Shakhtar Donetsk deplasmanı bilet açıklaması",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795814699.7859035
+  },
+  {
+    "slug": "ampiyonlar-ligi-ma-nda-sakatlanm-t-3-hafta-yok",
+    "title": "Şampiyonlar Ligi maçında sakatlanmıştı! 3 hafta yok",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795821673.1659725
   }
 ]
