@@ -1,12 +1,5 @@
 [
   {
-    "slug": "be-ikta-a-keny-arroyo-piyangosu-45-milyon-euro",
-    "title": "Beşiktaş'a Keny Arroyo piyangosu: 45 milyon Euro!",
-    "club": "BEŞİKTAŞ",
-    "status": "posted_telegram",
-    "ts": 1794479263.7851431
-  },
-  {
     "slug": "ampiyonlar-ligi-ve-avrupa-kupalar-yeniden-exxen-de",
     "title": "Şampiyonlar Ligi ve Avrupa kupaları yeniden Exxen'de!",
     "club": "A MİLLİ TAKIM",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795793137.4496791
+  },
+  {
+    "slug": "aziz-y-ld-r-m-dan-transfer-karar",
+    "title": "Aziz Yıldırım'dan transfer kararı",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795800637.3043795
   }
 ]
