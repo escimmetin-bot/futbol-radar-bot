@@ -1,12 +1,5 @@
 [
   {
-    "slug": "cedric-bakambu-dan-erken-veda-ayr-l-k-karar-n-n-ar",
-    "title": "Cedric Bakambu'dan erken veda! Ayrılık kararının arkasından dava çıktı",
-    "club": "GALATASARAY",
-    "status": "posted_telegram",
-    "ts": 1794471070.257735
-  },
-  {
     "slug": "be-ikta-a-keny-arroyo-piyangosu-45-milyon-euro",
     "title": "Beşiktaş'a Keny Arroyo piyangosu: 45 milyon Euro!",
     "club": "BEŞİKTAŞ",
@@ -1048,5 +1041,12 @@
     "club": "REAL MADRİD / ARDA GÜLER",
     "status": "posted_telegram",
     "ts": 1795784097.775469
+  },
+  {
+    "slug": "galatasaray-dan-fla-okan-buruk-karar-yeni-sezonda",
+    "title": "Galatasaray'dan flaş Okan Buruk kararı! Yeni sezonda...",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795793137.4496791
   }
 ]
