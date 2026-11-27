@@ -1,12 +1,5 @@
 [
   {
-    "slug": "t-rkiye-u17-san-marino-4-0-ma-sonucu-yaz-l-zet",
-    "title": "Türkiye U17-San Marino: 4-0 (Maç sonucu-yazılı özet)",
-    "club": "A MİLLİ TAKIM",
-    "status": "posted_telegram",
-    "ts": 1794447859.363839
-  },
-  {
     "slug": "fenerbah-e-arsavev-real-sociedad-0-2-ma-sonucu-yaz",
     "title": "Fenerbahçe arsaVev-Real Sociedad: 0-2 (Maç sonucu-yazılı özet)",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "FENERBAHÇE",
     "status": "posted_telegram",
     "ts": 1795762719.3690095
+  },
+  {
+    "slug": "trabzonspor-un-golc-transferinde-b-plan-felipe",
+    "title": "Trabzonspor'un golcü transferinde B planı Felipe",
+    "club": "TRABZONSPOR",
+    "status": "posted_telegram",
+    "ts": 1795767895.243461
   }
 ]
