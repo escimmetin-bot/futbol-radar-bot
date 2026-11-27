@@ -1,12 +1,5 @@
 [
   {
-    "slug": "lider-rol-model-ola-an-st-kane-in-peri-masal-nas-l",
-    "title": "Lider, rol model, olağanüstü - Kane'in 'peri masalı' nasıl gerçeğe dönüştü?",
-    "club": "SÜPER LİG",
-    "status": "posted_telegram",
-    "ts": 1794439059.2730267
-  },
-  {
     "slug": "t-rkiye-u17-san-marino-4-0-ma-sonucu-yaz-l-zet",
     "title": "Türkiye U17-San Marino: 4-0 (Maç sonucu-yazılı özet)",
     "club": "A MİLLİ TAKIM",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795754138.2195559
+  },
+  {
+    "slug": "fenerbah-e-ye-veda-eden-edin-dzeko-i-stanbul-dan-a",
+    "title": "Fenerbahçe'ye veda eden Edin Dzeko İstanbul'dan ayrıldı",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795762719.3690095
   }
 ]
