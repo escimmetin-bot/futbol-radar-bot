@@ -1,12 +1,5 @@
 [
   {
-    "slug": "brezilya-da-transfer-g-ndemi-carlos-vinicius-a-y-k",
-    "title": "Brezilya'da transfer gündemi! Carlos Vinicius'a yüksek maaş teklifi",
-    "club": "GALATASARAY",
-    "status": "posted_telegram",
-    "ts": 1794494745.7399986
-  },
-  {
     "slug": "barcelona-gen-y-ld-z-n-b-rakm-yor-marc-bernal-ile-",
     "title": "Barcelona genç yıldızını bırakmıyor! Marc Bernal ile anlaşma sağlandı",
     "club": "SÜPER LİG",
@@ -1048,5 +1041,12 @@
     "club": "BEŞİKTAŞ",
     "status": "posted_telegram",
     "ts": 1795807662.8578064
+  },
+  {
+    "slug": "b-lent-b-l-kba-berat-y-lmaz-mental-olarak-bir-gen-",
+    "title": "Bülent Bölükbaşı: \"Berat Yılmaz mental olarak bir genç oyuncuya nazaran çok dirayetli\"",
+    "club": "GALATASARAY",
+    "status": "posted_telegram",
+    "ts": 1795814699.7859035
   }
 ]
