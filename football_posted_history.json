@@ -1,12 +1,5 @@
 [
   {
-    "slug": "van-bommel-den-be-ikta-ve-trossard-a-klamas-i-te-v",
-    "title": "Van Bommel'den Beşiktaş ve Trossard açıklaması! İşte verdiği yanıt",
-    "club": "BEŞİKTAŞ",
-    "status": "posted_telegram",
-    "ts": 1794545201.5674984
-  },
-  {
     "slug": "emre-bel-zo-lu-shakhtar-n-y-ld-z-n-istiyor-arda-tu",
     "title": "Emre Belözoğlu, Shakhtar'ın yıldızını istiyor! Arda Turan ile görüşüp transferi biterecek",
     "club": "FENERBAHÇE",
@@ -1048,5 +1041,12 @@
     "club": "GALATASARAY",
     "status": "posted_telegram",
     "ts": 1795861078.029699
+  },
+  {
+    "slug": "emre-bel-zo-lu-nun-kara-listesi",
+    "title": "Emre Belözoğlu'nun kara listesi",
+    "club": "FENERBAHÇE",
+    "status": "posted_telegram",
+    "ts": 1795867956.6164982
   }
 ]
