@@ -1,12 +1,5 @@
 [
   {
-    "slug": "t-rkiye-bel-ika-1-2-ma-sonucu-ma-zeti-yaz-l",
-    "title": "Türkiye - Belçika: 1-2 Maç sonucu, maç özeti (Yazılı)",
-    "club": "REAL MADRİD / ARDA GÜLER",
-    "status": "posted_telegram",
-    "ts": 1794515969.456922
-  },
-  {
     "slug": "i-talya-fransa-3-1-ma-sonucu-ma-zeti-yaz-l",
     "title": "İtalya - Fransa: 3-1 Maç sonucu, maç özeti (Yazılı)",
     "club": "A MİLLİ TAKIM",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795830485.3321517
+  },
+  {
+    "slug": "sar-yer-i-stanbulspor-1-0-ma-sonucu-ma-zeti",
+    "title": "Sarıyer - İstanbulspor: 1-0 (Maç sonucu, maç özeti)",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795837541.4538276
   }
 ]
