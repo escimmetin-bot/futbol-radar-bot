@@ -1,12 +1,5 @@
 [
   {
-    "slug": "fenerbah-e-den-shakhtar-donetsk-deplasman-bilet-a-",
-    "title": "Fenerbahçe'den Shakhtar Donetsk deplasmanı bilet açıklaması",
-    "club": "FENERBAHÇE",
-    "status": "posted_telegram",
-    "ts": 1794508840.4794502
-  },
-  {
     "slug": "t-rkiye-bel-ika-1-2-ma-sonucu-ma-zeti-yaz-l",
     "title": "Türkiye - Belçika: 1-2 Maç sonucu, maç özeti (Yazılı)",
     "club": "REAL MADRİD / ARDA GÜLER",
@@ -1048,5 +1041,12 @@
     "club": "SÜPER LİG",
     "status": "posted_telegram",
     "ts": 1795821673.1659725
+  },
+  {
+    "slug": "ba-antren-r-slegers-ampiyonlar-ligi-galibiyetinden",
+    "title": "Baş antrenör Slegers, Şampiyonlar Ligi galibiyetinden 18 ay sonra Arsenal'den ayrıldı",
+    "club": "SÜPER LİG",
+    "status": "posted_telegram",
+    "ts": 1795830485.3321517
   }
 ]
